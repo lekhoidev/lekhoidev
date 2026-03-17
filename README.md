@@ -6,26 +6,26 @@
   <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Tran Dai Vy</h1>
-<h3 align="center">Full-stack Developer from Vietnam 🇻🇳</h3>
+<h1 align="center">LE HOANG KHOI</h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  I build <b>pixel-perfect front-ends</b> and <b>scalable back-end architectures</b>. 🌐 <br>
-  Passionate about exploring <b>modern tech stacks</b> to deliver seamless, high-performance digital solutions. 🛠️
+  I love creating <b>robust, scalable back-end systems</b> and clean, efficient APIs. 🖥️ <br>
+  Always eager to <b>explore new technologies</b> and deepen my understanding of how things work under the hood. 🔍
 </p>
 
 <p align="center">
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="Express" width="50" height="50" />
 </p>
+
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **YOUR CURRENT PROJECT / PRODUCT**
-- 🌱 I’m learning: **SYSTEM DESIGN / CLOUD / NEW TECH**
+- 🌱 I’m learning: **Express, NestJS**
 - 🎯 Goal: **Building impactful, real-world products**
 - ⚡ Fun fact: **Add something fun about you here**
 
@@ -38,16 +38,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
   </a>
-</p>
-
-### Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,redux,tailwind" />
-  </a>
-  <br />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
 ### Database
