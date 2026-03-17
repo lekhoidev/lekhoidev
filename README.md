@@ -8,7 +8,7 @@
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  I love creating <b>robust, scalable back-end systems</b> and clean, efficient APIs. 🖥️ <br>
+  I love making <b>robust, scalable back-end systems</b> and clean, efficient APIs. 🖥️ <br>
   Always eager to <b>explore new technologies</b> and deepen my understanding of how things work under the hood. 🔍
 </p>
 
@@ -27,10 +27,10 @@
 - 🌱 I'm currently learning: **Express, NestJS**
   
 - 🎯 Goal: **Building impactful, real-world products**
-
-- ⚡ Fun fact: **You can call me Kelvin**
   
 - 🎮 Hobbies: **Gaming, Soccer, Music**
+
+- ⚡ Fun fact: **You can call me Kelvin**
 
 <br clear="right" />
 
@@ -81,7 +81,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/khoi-le-637b553a2/" target="_blank">
+  <a href="https://www.linkedin.com/in/lekhoidev/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/scaredofwoman/" target="_blank">
