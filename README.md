@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm YOUR NAME</h1>
-<h3 align="center">A YOUR_ROLE based in YOUR_CITY</h3>
+<h1 align="center">Hi LE KHOI</h1>
+<h3 align="center">Backend Developer</h3>
 
 ---
 
 ### 🙋‍♀️ About me
 
-- 🌱 I’m currently learning **TECH/STACK YOU LEARN**
+- 🌱 I’m currently learning Nodejs
 - 💼 I’m working on: **YOUR CURRENT PROJECT**
 - 💬 Ask me about: **TECH, TOOLS, DOMAINS**
-- 📫 How to reach me: **YOUR EMAIL**
-- 🌐 Portfolio: [YOUR WEBSITE](https://your-portfolio.com)
+- 📫 How to reach me: hoangkhoi2910@gmail.com
+- 🌐 
 
 ---
 
