@@ -1,7 +1,7 @@
 ![logo](BannerSection.png)
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="left" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="21%" style="display:inline;">
 
 <h1 align="center">LE KHOI</h1>
 <h3 align="center">Backend Developer</h3>
@@ -64,15 +64,17 @@
 
 ## 🚀 What I Can Do
 
-<img align="right" alt="Phainon" width="240" src="Phainon.png" />
+<img align="left" alt="Phainon" width="240" src="Phainon.png" />
 
 - **Backend:** Design scalable RESTful APIs with **Node.js (NestJS/Express)**, focusing on clean architecture and performance.
 
+
 - **Database:** Model efficient schemas with **MongoDB, SQL Server**.
+
   
 - **Soft Skills:** Proactively learning, communicate clearly, manage tasks and collaborate effectively in team environments.
 
-<br clear="right" />
+<br clear="left" />
 
 ---
 
