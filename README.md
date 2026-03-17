@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="50" />
 </p>
 
@@ -22,31 +22,40 @@
 
 ## 🧠 About Me
 
-- 🌱 I’m learning: **Express, NestJS**
+<img align="right" alt="Phainon" width="240" src="Phainon2.png" />
+
+- 🌱 I'm currently learning: **Express, NestJS**
+  
 - 🎯 Goal: **Building impactful, real-world products**
-- ⚡ Fun fact: **Add something fun about you here**
+
+- ⚡ Fun fact: **You can call me Kelvin**
+  
+- 🎮 Hobbies: **Gaming, Soccer, Music**
+
+<br clear="right" />
+
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-<p align="left">
+<h3 align="center">Backend</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
   </a>
 </p>
 
-### Database
-<p align="left">
+<h3 align="center">Database</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" />
 </p>
 
-### Tools
-<p align="left">
+<h3 align="center">Tools</h3>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
   </a>
@@ -56,15 +65,16 @@
 
 ## 🚀 What I Can Do
 
-<p align="right">
-  <img alt="Coding" width="280" src="Welcome.gif">
-</p>
+<img align="right" alt="Phainon" width="240" src="Phainon.png" />
 
-- <b>Backend:</b> Design scalable RESTful APIs with <b>Node.js (NestJS/Express)</b>, focusing on clean architecture and performance.
-- <b>Database:</b> Model efficient schemas with <b>MongoDB, SQL Server</b>.
-- <b>Soft Skills:</b> Proactively learning, communicate clearly, manage tasks and collaborate effectively in team environments.
+- **Backend:** Design scalable RESTful APIs with **Node.js (NestJS/Express)**, focusing on clean architecture and performance.
+- **Database:** Model efficient schemas with **MongoDB, SQL Server**.
+- **Soft Skills:** Proactively learning, communicate clearly, manage tasks and collaborate effectively in team environments.
+
+<br clear="right" />
 
 ---
+
 
 ## 🌐 Connect with Me
 
