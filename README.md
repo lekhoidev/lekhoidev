@@ -1,10 +1,8 @@
 <!-- Banner -->
 ![logo](BannerSection.png)
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%">
-</p>
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
+<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
 <h1 align="center">LE HOANG KHOI</h1>
 <h3 align="center">Backend Developer</h3>
@@ -15,7 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="50" />
 </p>
@@ -36,7 +33,7 @@
 ### Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
   </a>
 </p>
 
@@ -51,7 +48,7 @@
 ### Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
   </a>
 </p>
 
