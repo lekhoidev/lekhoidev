@@ -4,7 +4,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">LE HOANG KHOI</h1>
+<h1 align="center">LE KHOI</h1>
 <h3 align="center">Backend Developer</h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
 ### Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=mongodb" />
   </a>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40" />
 </p>
@@ -60,9 +60,9 @@
   <img alt="Coding" width="280" src="Welcome.gif">
 </p>
 
-- <b>Backend:</b> Design scalable RESTful APIs with <b>Node.js (NestJS/Express)</b> and <b>.NET</b>, focusing on clean architecture and performance.
-- <b>Database:</b> Model efficient schemas with <b>MongoDB, MySQL, SQL Server</b>.
-- <b>Soft Skills:</b> Communicate clearly, manage tasks and collaborate effectively in team environments.
+- <b>Backend:</b> Design scalable RESTful APIs with <b>Node.js (NestJS/Express)</b>, focusing on clean architecture and performance.
+- <b>Database:</b> Model efficient schemas with <b>MongoDB, SQL Server</b>.
+- <b>Soft Skills:</b> Proactively learning, communicate clearly, manage tasks and collaborate effectively in team environments.
 
 ---
 
